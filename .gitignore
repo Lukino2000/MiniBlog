@@ -4,6 +4,7 @@
 Website/bin/*.dll
 Website/bin/*.xml
 packages/
+.vs/
 
 #################
 ## Eclipse
